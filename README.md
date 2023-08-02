@@ -30,17 +30,17 @@ Esse projeto foi proposto no curso **Plano de Teste** da Priscila Caimi
 
 ![](./img/func_07_analise.png) ![](./img/func_08_analise.png)
 
-### Plano de Teste
-
-O palno de teste se encontra nesse link que vai levar para o notion [plano de teste](https://www.notion.so/Plano-de-Teste-TODOMVC-Q1-2023-915cbbab8afe45d3817aae781a2d0a83?pvs=4)
-
-[](!./img/ref_apresentacao_pl_teste.png)
-
 1. Indicação da imagem a ser segida
 2. Indica qual funcionalidade iremos analisar, indicando seu número e nome
 3. Descrição em alto da funcionalidade, indicando o usuário que irá utilizar, a funcionalidade desejada e porque da existeência desta funcionalidade
 4. Listagem das regras de negócio a serem integradas
 5. Validação de critérios de aceites para informar o cumprimento do desenvolvimento
+
+### Plano de Teste
+
+O palno de teste se encontra nesse link que vai levar para o notion [plano de teste](https://www.notion.so/Plano-de-Teste-TODOMVC-Q1-2023-915cbbab8afe45d3817aae781a2d0a83?pvs=4)
+
+[](!./img/ref_apresentacao_pl_teste.png)
 
 #### Funcionalidade
 

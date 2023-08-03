@@ -38,7 +38,7 @@ Esse projeto foi proposto no curso **Plano de Teste** da Priscila Caimi
 
 ### Plano de Teste
 
-O palno de teste se encontra nesse link que vai levar para o notion [plano de teste](https://www.notion.so/Plano-de-Teste-TODOMVC-Q1-2023-915cbbab8afe45d3817aae781a2d0a83?pvs=4)
+O palno de teste se encontra nesse [link](https://www.notion.so/Plano-de-Teste-TODOMVC-Q1-2023-915cbbab8afe45d3817aae781a2d0a83?pvs=4) que vai levar para o notion la vai estar todo o plano de teste e os bugs reportados
 
 [](!./img/ref_apresentacao_pl_teste.png)
 
